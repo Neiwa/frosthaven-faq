@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
-<a name="top"></a>
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
