@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
+<a name="top"></a>
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
@@ -55,7 +56,7 @@
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_0" class="page-number">0.0</a> Introduction <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+## <a name="page_0" class="page-number">0.0</a> Introduction <a href="#top" class="top">🔝</a>
 
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
 
@@ -63,19 +64,19 @@ Why github and not BoardGameGeek? Primarily, because github can be edited by mul
 
 ![divider](/assets/images/divider2.png)
 
-### 0.1 Spoilers
+### 0.1 Spoilers <a href="#top" class="top">🔝</a>
 
 I follow official spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope/building number, scenario number, or item number. Note that starting buildings, all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
 
 ![divider](/assets/images/divider2.png)
 
-### 0.2 About Me
+### 0.2 About Me <a href="#top" class="top">🔝</a>
 
 I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I am altogether too active in Frosthaven fan communities, and I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
 
 ![divider](/assets/images/divider2.png)
 
-### 0.3 How to Ask Questions, and Helpful Links
+### 0.3 How to Ask Questions, and Helpful Links <a href="#top" class="top">🔝</a>
 
 Most of these questions were asked by the community. If you have a question that you can't find the answer to, I recommend starting there. Frosthaven has an active, knowledgable, and passionate group of fans who will be happy to help you out. While none of these communities are directly affiliated with Cephalofair, I am active on all three and will be notified when something needs added. Any of the three can work; use whichever is most appealing to you.
 
@@ -85,7 +86,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ![divider](/assets/images/divider.png)
 
-##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos <a href="#top" class="top">🔝</a>
 
 - Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
   - Envelope 24 should list sticker 10
@@ -142,7 +143,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_11" class="page-number">1.1</a> Second Printing Non-Errata Changes
+### <a name="page_11" class="page-number">1.1</a> Second Printing Non-Errata Changes <a href="#top" class="top">🔝</a>
 
 In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
 
@@ -152,7 +153,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions <a href="#top" class="top">🔝</a>
 
 **General -** As a legacy game, the general rule is that if you don’t see something referenced in the rules, it probably relates to unlockable content. Check this FAQ if you are unsure.
 
@@ -184,9 +185,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_3" class="page-number">3.0</a> General Gameplay Questions (Non-Scenario) <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+## <a name="page_3" class="page-number">3.0</a> General Gameplay Questions (Non-Scenario) <a href="#top" class="top">🔝</a>
 
-### <a name="page_31" class="page-number">3.1</a> Masteries
+### <a name="page_31" class="page-number">3.1</a> Masteries <a href="#top" class="top">🔝</a>
 
 **Can I complete my Mastery in Scenario 0?** No. Scenario 0 is intentionally easy. This was added to the scenario rules in the second printing. 
 
@@ -198,7 +199,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_32" class="page-number">3.2</a> Personal Quests
+### <a name="page_32" class="page-number">3.2</a> Personal Quests <a href="#top" class="top">🔝</a>
 
 **My Personal Quest gives me a scenario and says to 'follow it to its conclusion.' What does that mean? Do I retire after the scenario?** You keep going until the game explicitly tells you that your quest is complete in a gold Scenario Rewards box. A general rule is that these take more than one scenario and involve calendar entries and delays between scenarios. The character who owns the PQ must participate in these quest scenarios. It is recommended you complete any scenarios unlocked by your Personal Quest as early as possible, because there are unavoidable calendar-based delays between them.
 
@@ -229,7 +230,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_33" class="page-number">3.3</a> Events and Traits
+### <a name="page_33" class="page-number">3.3</a> Events and Traits <a href="#top" class="top">🔝</a>
 **Is my Ancestry another trait?** Effectively, yes, your Ancestry (quatryl, human, etc.) can operate as an additional Trait for your character. It operates like all other Traits on your character board. 
 
 **Which Road or Outpost Event deck do I draw from?** Draw from the Season indicated by the *next unmarked box* on the campaign calendar.
@@ -258,7 +259,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_4" class="page-number">4.0</a> Outpost General Questions <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+## <a name="page_4" class="page-number">4.0</a> Outpost General Questions <a href="#top" class="top">🔝</a>
 **How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
 
 **Does increasing my Prosperity add more items to the Craftsman?** Kind of - it opens up new levels of the Craftsman and maybe other shops you've unlocked. When you improve those, you add more items to the available pool.
@@ -308,7 +309,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_41" class="page-number">4.1</a> Specific Building Questions
+### <a name="page_41" class="page-number">4.1</a> Specific Building Questions <a href="#top" class="top">🔝</a>
 
 *For questions about Solo Scenarios and specific Buildings, please see section <a href="#page_72">Section 7.2</a>*
 
@@ -340,7 +341,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_42" class="page-number">4.2</a> Enhancements
+### <a name="page_42" class="page-number">4.2</a> Enhancements <a href="#top" class="top">🔝</a>
 *Note: for questions about the building effects at each level, see its building number, above. This section is for general questions about enhancements. This section will not be spoiler-tagged.*
 
 **Is there a limit on the number of enhancements a character can have?** No, there's no limit. This is a change from Gloomhaven.
@@ -351,7 +352,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_43" class="page-number">4.3</a> Building 81 Questions
+### <a name="page_43" class="page-number">4.3</a> Building 81 Questions <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Spoilers for Building 81</b></summary>
@@ -371,9 +372,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario) <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario) <a href="#top" class="top">🔝</a>
 
-### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays
+### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays <a href="#top" class="top">🔝</a>
 
 **What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, deathwalker shadows, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven.*
 
@@ -403,7 +404,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_52" class="page-number">5.2</a> Damage, Shield, Ward, and Brittle
+### <a name="page_52" class="page-number">5.2</a> Damage, Shield, Ward, and Brittle <a href="#top" class="top">🔝</a>
 
 **When I lose a card to avoid all damage, do I lose Ward and/or Brittle?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
 
@@ -423,7 +424,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_53" class="page-number">5.3</a> Attack Modifier Draws, Advantage, and Disadvantage
+### <a name="page_53" class="page-number">5.3</a> Attack Modifier Draws, Advantage, and Disadvantage <a href="#top" class="top">🔝</a>
 
 **What is the order of operations if I draw a x2 or Null on a draw with rolling modifiers?** If a Null (x0) is included in the final attack modifier draws, no matter where, the final damage will always be 0. If you draw a x2, it can be inserted at any time during attack modification including at the very end. (For example, if I have an Attack 3, draw a rolling +1, and finally a x2, I can decide if my final damage is 7 (3x2) + 1 or 8 (3+1) x2.)
 
@@ -453,7 +454,7 @@ Examples:
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_54" class="page-number">5.4</a> Negative Conditions
+### <a name="page_54" class="page-number">5.4</a> Negative Conditions <a href="#top" class="top">🔝</a>
 
 (For Brittle, see <a href="#page_52">Section 5.2</a>; Brittle is often more a question for damage resolution.)
 
@@ -467,7 +468,7 @@ Examples:
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_55" class="page-number">5.5</a> General Player Ability Questions and Clarifications
+### <a name="page_55" class="page-number">5.5</a> General Player Ability Questions and Clarifications <a href="#top" class="top">🔝</a>
 
 **If I have an Ability with a “Target All” can I choose to exclude some targets?** If there isn’t a Mandatory box, and it's not a negative effect on you or your allies, you can choose to exclude targets from a Target All effect.
 
@@ -511,7 +512,7 @@ Examples:
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_56" class="page-number">5.6</a> Loot Deck Questions
+### <a name="page_56" class="page-number">5.6</a> Loot Deck Questions <a href="#top" class="top">🔝</a>
 
 **What should I do with the two weird coin cards (loot cards 1418 & 1419) with numbers and checkboxes?** They are related to an unlockable campaign mechanic and should not be used right now. If you wish, you can put them in Envelope 74; just don’t examine the other envelope contents. (Note - 2nd Printing moved these cards to their proper envelope; This is repeated from <a href="#page_2">Section 2.0</a>)
 
@@ -529,7 +530,7 @@ Examples:
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_57" class="page-number">5.7</a> Objectives
+### <a name="page_57" class="page-number">5.7</a> Objectives <a href="#top" class="top">🔝</a>
 
 **Does destroying an objective count as a "kill" for abilities or battle goals?** No. Objectives are destroyed, not killed. 
 
@@ -543,7 +544,7 @@ Examples:
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_58" class="page-number">5.8</a> Monster Focus, Abilities, and Stats
+### <a name="page_58" class="page-number">5.8</a> Monster Focus, Abilities, and Stats <a href="#top" class="top">🔝</a>
 
 **If a monster with a ranged attack is adjacent to one enemy, but could attack another enemy without disadvantage, which enemy will it attack?** Monster focus doesn't consider disadvantage. It will always prioritize the adjacent enemy in this case. If the monster would lose disadvantage by moving away from its focus, if it can do so with its current movement, and if it can do so without entering a negative hex, it will. It will move as little as it can, in order to lose disadvantage.
 
@@ -577,13 +578,13 @@ Examples:
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_59" class="page-number">5.9</a> Scenario Allies
+### <a name="page_59" class="page-number">5.9</a> Scenario Allies <a href="#top" class="top">🔝</a>
 
 **I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for Banner Spear formations or anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_510" class="page-number">5.10</a> Challenges
+### <a name="page_510" class="page-number">5.10</a> Challenges <a href="#top" class="top">🔝</a>
 
 *Note that each Challenge card has a name. For lack of a clear better option, I am using these names to identify which one a FAQ entry refers to. There are, I suppose, minor spoilers in this section as a necessity.*
 
@@ -597,33 +598,33 @@ Examples:
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_6" class="page-number">6.0</a> Monster Questions <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+## <a name="page_6" class="page-number">6.0</a> Monster Questions <a href="#top" class="top">🔝</a>
 **What are the little symbols on some monster stat cards for?** These are for locked campaign mechanics. You will know what they mean when it’s time.
 
-### Algox Priests 
+### Algox Priests  <a href="#top" class="top">🔝</a>
 **How do Algox Priests move if they draw a card which has them just moving and healing?** Any time a monster has a non-attacking turn, they focus and move like they are making a melee attack. You don't consider the Heal ability for their movement; it's possible moving towards an enemy may even take them out of range for their healing ability. If there are monsters in range after this move (including the priest itself), it will heal the monster in range with the most damage tokens on it. If there is a tie, players can choose which enemy is healed. Conditions aren't considered when picking a Heal target.
 
-### Burrowing Blades 
+### Burrowing Blades  <a href="#top" class="top">🔝</a>
 **Is the movement path for Tunneling Slices chosen to maximize targets?** In this case and all similar ones, the attack is a rider on the move, and a move ability doesn't have multi-target. A player can resolve ambiguity among multiple equal paths to minimize targets.
 
 **Will the Blades attack with Tunneling Slices if they are already adjacent to the furthest enemy?** No. The attack is a rider on the move. No move means no attack. 
 
 **How is focus determined for Tunneling Slices?** Basically - it is completely analogous to normal focus rules, except the Burrowing Blades is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a (preferably) safe and legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible, and potentially choosing another focus if all available hexes around the furthest enemy are negative. 
 
-### Chaos Demon
+### Chaos Demon <a href="#top" class="top">🔝</a>
 **What is the Retaliate value on Chilling Breath?** It is Retaliate 2, Range 2. This was a production error (see Section 2 of the FAQ).
 
-### Flaming Bladespinner
+### Flaming Bladespinner <a href="#top" class="top">🔝</a>
 **Is the movement path for Spinning Charge chosen to maximize targets?** In this case and all similar ones, the attack is a rider on the move, and a move ability doesn't have multi-target. A player can resolve ambiguity among multiple equal paths to minimize targets.
 
 **Will the Bladespinner attack with Spinning Charge if they are already adjacent to the furthest enemy?** No. The attack is a rider on the move. No move means no attack. 
 
 **How is focus determined for Spinning Charge?** Basically - it is completely analogous to normal focus rules, except the Bladespinner is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a (preferably) safe and legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible, and potentially choosing another focus if all available hexes around the furthest enemy are negative.
 
-### Frozen Corpse
+### Frozen Corpse <a href="#top" class="top">🔝</a>
 **How does the elemental consumption on Thawed Strike work?** This card was written before the FH elemental consumption rules were finalized. If any Corpse performs any ability, they will consume Fire. Any Corpse performing a Move ability (keeping in mind this has to be 1 or more hexes) during their turn will take 2 damage. 
 
-### Ice Wraith
+### Ice Wraith <a href="#top" class="top">🔝</a>
 **If an Ice Wraith is Stunned during a turn when it would switch forms, does it switch forms?** No, a stunned ice wraith will not switch forms.
 
 **What's the timing for changing forms? Do Ice Wraiths all change at once, or one at a time?** One at a time. Each will activate and change on their own turn.
@@ -632,31 +633,31 @@ Examples:
 
 **How does a Named Ice Wraith work? Are they elite? Normal? Change form?** Isaac: "The intention was that named Ice Wraiths would switch forms (this is the main reason normals and elites always have the same hit point value). That is on pretty shaky ground with the rules, though, because they're explicitly called out as not elite, and because the red bases are used, it is even difficult to track. Gonna be messy either way, but I would say to go with the intent, have them switch, and recommend using normal white/yellow bases (or white/red bases) in those cases."
 
-### Lightning Eel
+### Lightning Eel <a href="#top" class="top">🔝</a>
 **What happens if I destroy or relocate a water tile an eel is currently occupying?** The eel treats non-water hexes as obstacles, so will immediately relocate to the closest water hex. (Note that, unlike Gloomhaven, there is no damage caused by this movement in Frosthaven.) In the event there's no unoccupied water tiles, they just remain in the hex they're in until able to legally move elsewhere. 
 
 **Can Lightning Eels be force moved out of water?** No. Non-water hexes are obstacles to Lightning Eels. 
 
-### Living Doom
+### Living Doom <a href="#top" class="top">🔝</a>
 **Is it possible for Call for Souls to summon zero Living Spirits?** Yes. 
 
-### Lurker Soldier
+### Lurker Soldier <a href="#top" class="top">🔝</a>
 **How does Berserk Rage work?** The Soldier can target its normal amount of enemies (note the lack of 'all' here), but can target enemies within 2 hexes for this attack. These remain melee attacks. 
 
-### Lurker Mindsnipper
+### Lurker Mindsnipper <a href="#top" class="top">🔝</a>
 **How does Turn the Weak work?** First, the Mindsnipper finds focus, moves, and attacks as any multi-target enemy will. Then, it makes the listed attacks against its targets. Note, if it has innate Muddle, it will muddle the targets at this point. After those attacks resolve, any enemy that was targeted will be forced to attack an adjacent ally using standard focus priority rules. The enemy will draw from its own modifier deck for this attack. Because this is specifically an Attack 3, this will always be a melee attack, even if this targets one of your Summons with an inherent range. If this targets a Summon or scenario ally with special attack characteristics (like adding Wound to all attacks), those will apply, here.
 
-### Lurker Wavethrower
+### Lurker Wavethrower <a href="#top" class="top">🔝</a>
 **If we run out of water tiles, can the Wavethrower make more?** Yes. Overlay tiles are not supposed to be component-limited. Use a proxy tile.
 
 **What kind of terrain do the Wavethrower's water tiles count as?** They count as whatever Water is defined as in the scenario key - or, in absence of that, as Difficult Terrain.
 
-### Wind Demon
+### Wind Demon <a href="#top" class="top">🔝</a>
 **Should Level 0 Elites have more movement than Level 1 Elites?** Level 0 Elites should have Move 3. This is errata.
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_7" class="page-number">7.0</a> General Scenario Questions <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+## <a name="page_7" class="page-number">7.0</a> General Scenario Questions <a href="#top" class="top">🔝</a>
 
 **Do I need to return to Frosthaven after every successful scenario?** Yes, unless the scenario you just completed is Linked or Force-Linked to another scenario. This is indicated by a chain link icon with a red or yellow exclamation point in the Scenario Rewards when a new scenario is first unlocked. You cannot replay a scenario you've successfully completed without returning to Frosthaven, and links are only one-way.
 
@@ -683,7 +684,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
+### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions <a href="#top" class="top">🔝</a>
 
 **Scenario 0** - Masteries cannot be completed in this scenario. This is a printed rule in the second printing.
 
@@ -824,7 +825,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_72" class="page-number">7.2</a> Solo Scenario Questions
+### <a name="page_72" class="page-number">7.2</a> Solo Scenario Questions <a href="#top" class="top">🔝</a>
 
 **Can I gain Masteries or Battle Goals during a Solo Scenario? Can I progress my PQ? Do I gain Inspiration?** You can pursue Masteries and Battle Goals, but solo scenarios are probably enough of a challenge without them! You can also progress towards retirement. You do not gain Inspiration - Inspiration is based on party size, and both the minimum and maximum party size for a solo scenario is 1.
 
@@ -848,9 +849,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_8" class="page-number">8.0</a> Characters <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+## <a name="page_8" class="page-number">8.0</a> Characters <a href="#top" class="top">🔝</a>
 
-### ![Drifter Icon](/assets/images/01_drifter.webp) <a name="page_81" class="page-number">8.1</a> Drifter
+### ![Drifter Icon](/assets/images/01_drifter.webp) <a name="page_81" class="page-number">8.1</a> Drifter <a href="#top" class="top">🔝</a>
 
 **When do I get XP for my persistent abilities?** Only when moving forward on the track, never when moving backwards, even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
 
@@ -868,7 +869,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) <a name="page_82" class="page-number">8.2</a> Blinkblade
+### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) <a name="page_82" class="page-number">8.2</a> Blinkblade <a href="#top" class="top">🔝</a>
 
 **General Note about Range modifications** - You have several abilities which add Range to a Melee attack. Note that if you add Range to a Melee attack, you add the modifier to 1 and it becomes a Ranged attack. (So if you use Kinetic Transfer top while Slow, your Attack becomes Ranged and has Range 2.) As it says on your board, this range modification is mandatory and cannot be skipped.
 
@@ -895,7 +896,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Banner Spear Icon](/assets/images/03_banner_spear.webp) <a name="page_83" class="page-number">8.3</a> Banner Spear
+### ![Banner Spear Icon](/assets/images/03_banner_spear.webp) <a name="page_83" class="page-number">8.3</a> Banner Spear <a href="#top" class="top">🔝</a>
 
 **How much can I communicate with my party about where I would like them to be for a formation?** The only things you can't communicate are *specific numbers* and *specific card names*. (This includes things that are "basically numbers" - like "voting age" or "exactly half" or something similar.) Everything else is allowed and frankly, for Banner Spear, encouraged. You can tell people where you need to be, ask where they will end up, ask them if they can go to a certain hex, tell them the kinds of conditions you'll be applying, the specific monsters you hope to attack, etc. It's okay if this lets them guess your card, your initiative, etc. - that's part of learning to work together as a team.
 
@@ -927,7 +928,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">8.4</a> Deathwalker
+### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">8.4</a> Deathwalker <a href="#top" class="top">🔝</a>
 
 **General Rules Updates from Second Printing**
 - Placed shadows should be considered adjacent to their own hexes for all purposes, not just for targeting. When you place a new shadow, though, follow normal adjacency rules.  (Note that this rule is on the Deathwalker board in Second Printing)
@@ -969,7 +970,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) <a name="page_85" class="page-number">8.5</a> Boneshaper
+### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) <a name="page_85" class="page-number">8.5</a> Boneshaper <a href="#top" class="top">🔝</a>
 
 **For my "15 Kills" Mastery, what counts as ‘killing’ one of my summons? And do I really need to do it within one scenario?** You have specific abilities and attack modifiers (example: Exploding Corpse) which kill one of your summons. It has to be done through these. Unsummoning does not count, moving them into traps does not count, etc. Yes, this needs to be completed in one scenario.
 
@@ -996,7 +997,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Geminate Icon](/assets/images/06_geminate.webp) <a name="page_86" class="page-number">8.6</a> Geminate
+### ![Geminate Icon](/assets/images/06_geminate.webp) <a name="page_86" class="page-number">8.6</a> Geminate <a href="#top" class="top">🔝</a>
 
 **General Note -** Although it can be helpful to think of the Geminate as having two separate hands, they really have only one hand with restrictions on which cards they can play based on their current form. This may help if you’re wondering about losing cards to negate damage, or how rests work out. You still need to bring 7 cards for each form to every scenario.
 
@@ -1026,7 +1027,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Astral Icon](/assets/images/07_astral.webp) <a name="page_87" class="page-number">8.7</a> "Astral" or "Moon and Star"
+### ![Astral Icon](/assets/images/07_astral.webp) <a name="page_87" class="page-number">8.7</a> "Astral" or "Moon and Star" <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Astral Spoilers</b></summary>
@@ -1056,7 +1057,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Meteor Icon](/assets/images/08_meteor.webp) <a name="page_88" class="page-number">8.8</a> "Meteor"
+### ![Meteor Icon](/assets/images/08_meteor.webp) <a name="page_88" class="page-number">8.8</a> "Meteor" <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Meteor Spoilers</b></summary>
@@ -1098,7 +1099,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Shards Icon](/assets/images/09_shards.webp) <a name="page_89" class="page-number">8.9</a> "Shards"
+### ![Shards Icon](/assets/images/09_shards.webp) <a name="page_89" class="page-number">8.9</a> "Shards" <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Shards Spoilers</b></summary>
@@ -1116,7 +1117,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Trap Icon](/assets/images/10_trap.webp) <a name="page_810" class="page-number">8.10</a> "Trap"
+### ![Trap Icon](/assets/images/10_trap.webp) <a name="page_810" class="page-number">8.10</a> "Trap" <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Trap Spoilers</b></summary>
@@ -1150,7 +1151,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">8.11</a> "Shackles"
+### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">8.11</a> "Shackles" <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Shackles Spoilers</b></summary>
@@ -1189,7 +1190,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Snowflake Icon](/assets/images/12_snowflake.webp) <a name="page_812" class="page-number">8.12</a> "Snowflake"
+### ![Snowflake Icon](/assets/images/12_snowflake.webp) <a name="page_812" class="page-number">8.12</a> "Snowflake" <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Snowflake Spoilers</b></summary>
@@ -1215,7 +1216,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Fist Icon](/assets/images/13_fist.webp) <a name="page_813" class="page-number">8.13</a> "Fist"
+### ![Fist Icon](/assets/images/13_fist.webp) <a name="page_813" class="page-number">8.13</a> "Fist" <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Fist Spoilers</b></summary>
@@ -1237,7 +1238,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Kelp Icon](/assets/images/14_kelp.webp) <a name="page_814" class="page-number">8.14</a> "Kelp" (or "Seaweed")
+### ![Kelp Icon](/assets/images/14_kelp.webp) <a name="page_814" class="page-number">8.14</a> "Kelp" (or "Seaweed") <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Kelp Spoilers</b></summary>
@@ -1253,7 +1254,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Coral Icon](/assets/images/15_coral.webp) <a name="page_815" class="page-number">8.15</a> "Coral" (or "Anemone")
+### ![Coral Icon](/assets/images/15_coral.webp) <a name="page_815" class="page-number">8.15</a> "Coral" (or "Anemone") <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Coral Spoilers</b></summary>
@@ -1271,7 +1272,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">8.16</a> "Prism" (or "Diamond")
+### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">8.16</a> "Prism" (or "Diamond") <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Prism Spoilers</b></summary>
@@ -1310,7 +1311,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Drill Icon](/assets/images/17_drill.webp) <a name="page_817" class="page-number">8.17</a> "Drill"
+### ![Drill Icon](/assets/images/17_drill.webp) <a name="page_817" class="page-number">8.17</a> "Drill" <a href="#top" class="top">🔝</a>
 
 <details>
 <summary><b>Drill Spoilers</b></summary>
@@ -1336,7 +1337,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_9" class="page-number">9.0</a> Items (General) <a href="#official-faq-for-frosthaven" class="top">🔝</a>
+## <a name="page_9" class="page-number">9.0</a> Items (General) <a href="#top" class="top">🔝</a>
 
 **Can potions be sold, or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
 
@@ -1358,7 +1359,7 @@ Basically, if an item only makes sense if used within another ability or in reac
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_91" class="page-number">9.1</a> Items (Specific)
+### <a name="page_91" class="page-number">9.1</a> Items (Specific) <a href="#top" class="top">🔝</a>
 
 Items are listed by their item number.
 
