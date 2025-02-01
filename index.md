@@ -55,7 +55,7 @@
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_0" class="page-number">0.0</a> Introduction
+## <a name="page_0" class="page-number">0.0</a> Introduction <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
 
@@ -85,7 +85,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ![divider](/assets/images/divider.png)
 
-##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos
+##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 
 - Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
   - Envelope 24 should list sticker 10
@@ -152,7 +152,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions
+## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 
 **General -** As a legacy game, the general rule is that if you don’t see something referenced in the rules, it probably relates to unlockable content. Check this FAQ if you are unsure.
 
@@ -184,7 +184,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_3" class="page-number">3.0</a> General Gameplay Questions (Non-Scenario)
+## <a name="page_3" class="page-number">3.0</a> General Gameplay Questions (Non-Scenario) <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 
 ### <a name="page_31" class="page-number">3.1</a> Masteries
 
@@ -258,7 +258,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_4" class="page-number">4.0</a> Outpost General Questions
+## <a name="page_4" class="page-number">4.0</a> Outpost General Questions <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 **How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
 
 **Does increasing my Prosperity add more items to the Craftsman?** Kind of - it opens up new levels of the Craftsman and maybe other shops you've unlocked. When you improve those, you add more items to the available pool.
@@ -371,7 +371,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario)
+## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario) <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 
 ### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays
 
@@ -597,7 +597,7 @@ Examples:
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_6" class="page-number">6.0</a> Monster Questions
+## <a name="page_6" class="page-number">6.0</a> Monster Questions <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 **What are the little symbols on some monster stat cards for?** These are for locked campaign mechanics. You will know what they mean when it’s time.
 
 ### Algox Priests 
@@ -656,7 +656,7 @@ Examples:
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_7" class="page-number">7.0</a> General Scenario Questions
+## <a name="page_7" class="page-number">7.0</a> General Scenario Questions <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 
 **Do I need to return to Frosthaven after every successful scenario?** Yes, unless the scenario you just completed is Linked or Force-Linked to another scenario. This is indicated by a chain link icon with a red or yellow exclamation point in the Scenario Rewards when a new scenario is first unlocked. You cannot replay a scenario you've successfully completed without returning to Frosthaven, and links are only one-way.
 
@@ -848,7 +848,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_8" class="page-number">8.0</a> Characters
+## <a name="page_8" class="page-number">8.0</a> Characters <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 
 ### ![Drifter Icon](/assets/images/01_drifter.webp) <a name="page_81" class="page-number">8.1</a> Drifter
 
@@ -1336,7 +1336,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_9" class="page-number">9.0</a> Items (General)
+## <a name="page_9" class="page-number">9.0</a> Items (General) <a href="#official-faq-for-frosthaven" class="top">🔝</a>
 
 **Can potions be sold, or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
 
