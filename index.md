@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-01-06*
+*Last Updated 2025-03-14*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -333,7 +333,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Building 88** - <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
 
-**Building 88 - Mechanic** <span class="hidden"></b>Lightning Eel Pet - Is this effect mandatory for all players when this pet used?<b> No. While the Eel is still only used once per scenario, by unanimous consent of the party, a player is free to 'opt out' of the damage and therefore skip recovering a card.</span>
+**Building 88 - Mechanic** <span class="hidden"><b>Lightning Eel Pet - Is this effect mandatory for all players when this pet used?</b> No. While the Eel is still only used once per scenario, by unanimous consent of the party, a player is free to 'opt out' of the damage and therefore skip recovering a card.</span>
 
 **Building 90** - <span class="hidden">See <a href="#page_510">Section 5.10</a> for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
 </span>
@@ -764,7 +764,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p>Conclusion - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks. First Printing Only - Add Item 224 to Scenario Rewards</span></p>
 </details>
 <br>
-**Scenario 62** - <span class="hidden">This scenario uses "a" tokens for both Crain's present location and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself. Damage tokens are used as time trackers here; there is no way for players to add damage to Crain's goals. Monsters <b>will</b> enter negative hexes to attack Crain, if they must in order to attack this round, but will enter as few as possible.</span>
+**Scenario 62** - <span class="hidden">This scenario uses "a" tokens for both Crain's present location and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself. Damage tokens are used as time trackers here; there is no way for players to add damage to Crain's goals.</span>
+
+**Scenario 63** - <span class="hidden">Monsters <b>will</b> enter negative hexes to attack Crain, if they must in order to attack this round, but will enter as few as possible.</span>
 
 **Scenario 65 - Section 89.1** - <span class="hidden">The Named Ice Wraith starts on "elite" stats, and switches forms like other ice wraiths. Just use normal white and yellow (or white and red) bases for it, but it's still considered a named monster.</span>
 
@@ -892,6 +894,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Blurry Jab (1) - If I'm Fast, can I choose not to Wound?** While it is mandatory that Fast effect has turned this into an Attack 4 Wound, you may, as always, choose not to apply the Wound effect to the Attack 4.
 
 **Fractured Timeline (9, top) - If I spawn a summoning ally, are their summons also my allies?** No. In all cases for all classes, when you are controlling a monster, you don't control their summons. Their summons will be enemies to you (and to them). 
+
+**Reverse the Flow (9, top) - Can I use an item like Boots to enhance my Move ability before turning it into an Attack ability?** No. You need to decide to use a Move ability as an Attack ability before performing the ability; you can't improve an ability you never performed. You can, however, use items which improve attacks once you do so.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -1422,6 +1426,8 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 124 Winged Shoes - Can I use this in the middle of a move if I suddenly need or want to jump?** No; using Winged Shoes is an ability, and therefore can't be performed in the middle of another ability. Please see the general item rules, above.
 
 **Item 180** - <span class="hidden"><b>Boots of Greed - do Loot abilities I grant to my Summons count for this item?</b> Yes. Your summons' loot abilities are considered your loot abilities for all purposes.</span>
+
+**Item 181** - <span class="hidden"><b>Translocation Rod</b> (1) Because teleporting other figures is considered Forced Movement, the teleport swap is targeted, and you need line of sight to both figures. (2) You cannot teleport a figure into a hex they cannot legally occupy.</span>
 
 **Item 188** - <span class="hidden">**Freezing Crystal** - The Water hex this item can create is considered Difficult Terrain.</span>
 
