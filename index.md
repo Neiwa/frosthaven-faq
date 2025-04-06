@@ -116,7 +116,7 @@ Most of these questions were asked by the community. If you have a question that
 - Scenario 60 should have Item 224 as a scenario reward
 - Scenario 70 has two Random Items on the Loot Deck. This is a typo; there should be 1.
 - Scenario 71, Section 111.2 - Map: Lurker Soldier should be Lurker Clawcrusher
-- Scenario 72, Section 132.2 - The snow rocks cannot be relocated or destroyed, except via the scenario mechanics.
+- Scenario 72, Section 132.2 - The cabinets (or snow rocks in some versions) cannot be relocated or destroyed, except via the scenario mechanics.
 - Scenario 78 has a tricky map issue - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page).
 - Scenario 104 - Second to last line of the special rules: "Ice Wraith" should be "Savvas Icestorm"
 - Scenario 104, Section Book 14.2 - Map: Ice Wraith should be Frost Demon
@@ -223,7 +223,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **PQ 19** <span class="hidden">"Gain the blueprint for the Abyss Axe" is an instruction for the player, not a PQ requirement. You gain this blueprint in your Craftable Supply (not the item itself) upon starting the quest, regardless of the level of your Craftsman. The activated ability of the Axe must be used on the hit that kills the enemy for it to count.</span>
 
-**PQ 21** <span class="hidden">If another player already has the Trainer's Net (Item 247), they will need to sell it, and you will need to buy it from the shop.</span>
+**PQ 21** <span class="hidden">If another player already has the Trainer's Net (Item 247), they will need to sell it, and you will need to buy it from the shop. You can capture monsters that you have already captured for this personal quest. This just counts for quest progress; you can't get multiple copies of a single pet.</span>
 
 **PQ 23** <span class="hidden">When you complete this quest and open Envelope A, </span><span class="hidden">immediately upgrade Building 81 to Level 2 at no cost.</span>
 
@@ -786,7 +786,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 82** - If you have questions on how some aspects of this scenario operate, please reference [this thread](https://boardgamegeek.com/thread/3070490/)
 
-**Scenario 83** - <span class="hidden">(1) The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that. (2) The scenario's water tiles cannot be removed, replaced, or relocated except by the scenario's mechanics. "Left" here refers to the horizontal row of hexes a water tile is on.</span>
+**Scenario 83** - <span class="hidden">(1) The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are summoned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that. (2) The scenario's water tiles cannot be removed, replaced, or relocated except by the scenario's mechanics. "Left" here refers to the horizontal row of hexes a water tile is on.</span>
 
 **Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet.) Capturing the Giant Piranha Pig is, for this scenario, an acceptable substitute for killing it for the scenario goal.</span>
 
