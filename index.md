@@ -2,12 +2,14 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-03-25*
+*Last Updated 2026-06-01*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
-1. <a href="#page_1">First Printing Production Errors and Typos</a>
-   1. <a href="#page_11">Second Printing Non-Errata Changes</a>
+*[Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)*
+
+1. <a href="#page_01">First Printing Production Errors and Typos</a>
+   1. <a href="#page_011">Second Printing Non-Errata Changes</a>
 1. <a href="#page_2">Component and Setup Questions</a>
 1. <a href="#page_3">General Gameplay Questions (Outside Scenarios)</a>
    1. <a href="#page_31">Masteries</a>
@@ -18,7 +20,7 @@
    1. <a href="#page_42">Enhancements</a>
    1. <a href="#page_43">Building 81 Questions</a>
 1. <a href="#page_5">General Gameplay Questions (Scenarios)</a>
-   1. <a href="#page_51">Rooms, Movement, Forced Movement, and Overlays</a>
+   1. <a href="#page_51">Rooms, Movement, Teleport, Forced Movement, and Overlays</a>
    1. <a href="#page_52">Damage, Shield, Ward, and Brittle</a>
    1. <a href="#page_53">Attack Modifier Draws, Advantage, and Disadvantage</a>
    1. <a href="#page_54">Negative Conditions</a>
@@ -52,14 +54,13 @@
    1. <a href="#page_817">"Drill"</a>
 1. <a href="#page_9">Items (General)</a>
    1. <a href="#page_91">Items (Specific)</a>
+1. <a href="#page_10">Compatibility Notes for Crossover Characters</a>
 
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_0" class="page-number">0.0</a> Introduction <a href="#top" class="top">🔝</a>
 
-This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
-
-Why github and not BoardGameGeek? Primarily, because github can be edited by multiple Cephalofair accounts, not just my personal forum account. Github also allows for features we've been sorely missing, like direct linking to sections, a clickable table of contents, richer formatting, and built-in version tracking. It has worked excellently for the [Buttons & Bugs Living Rules](https://cephalofairgames.github.io/bnb-rules/), and it seemed sensible to put Official FAQs here, as well.
+This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified.  Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread. Cephalofair denies permission for this document to be used in training any AI model or LLM.
 
 ![divider](/assets/images/divider2.png)
 
@@ -71,7 +72,7 @@ I follow official spoiler rules in this FAQ. I will spoiler-tag all locked conte
 
 ### 0.2 About Me <a href="#top" class="top">🔝</a>
 
-I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I am altogether too active in Frosthaven fan communities, and I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
+I am Bill (or dwarf74/dwarfSA in most places). I maintain the official FAQs for Cephalofair, and am also a moderator of Reddit’s /r/Gloomhaven. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
 
 ![divider](/assets/images/divider2.png)
 
@@ -81,11 +82,13 @@ Most of these questions were asked by the community. If you have a question that
 
 - [/r/Gloomhaven](https://www.reddit.com/r/Gloomhaven/) - The Gloomhaven Subreddit is for Gloomhaven, Frosthaven, and Jaws of the Lion. Spoilers are strictly moderated. There is a pinned "Small Questions" thread, or you can start your own for bigger questions.
 - [BoardGameGeek Frosthaven Forums](https://boardgamegeek.com/boardgame/295770/frosthaven/forums/0) - Another active forum, and the previous home of this FAQ. Spoiler tags are appreciated, but are completely unmoderated.
-- [Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
+- [Frosthaven Outpost-Gloomhaven Town Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
+- [Gloomhaven Second Edition FAQ](https://cephalofairgames.github.io/gloomhaven2e-faq/) for that game
+- Ekasalys has made a French-language FAQ for errata specific to that localization. [Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)
 
 ![divider](/assets/images/divider.png)
 
-##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos <a href="#top" class="top">🔝</a>
+##  <a name="page_01" class="page-number">1.0</a> First Printing Production Errors and Typos <a href="#top" class="top">🔝</a>
 
 - Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
   - Envelope 24 should list sticker 10
@@ -127,8 +130,9 @@ Most of these questions were asked by the community. If you have a question that
 - Scenario 130 Key - Shrike Fiend has an image of Night Demon
 - Section Book 137.3 - This should add Section 5.1, not 159.2
 - Solo Book p13 - Special rules: "Snowspeaker" should be "Icespeaker"
+- Rulebook p6 and p56 - These Gloomhaven item numbers are for Gloomhaven (2017), or 1st Edition. If you have Gloomhaven (2025), or 2nd Edition, instead you can add Items 9, 10, 43, 96, 97, 122, 123, 124, 125, 126, 127, 137, and 150 to the available supply (assuming you have unlocked them during your Gloomhaven campaign). See <a href="#page_41">4.1 Specific Building Questions</a> for Building 37.
 - Rulebook p30 - add the following to the end of Active Bonuses - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting."
-- Rulebook p33 - Recover is not a targeted effect.
+- Rulebook p33 - Recover is not a targeted effect. All references to 'targeted' are also changed to 'recovering'
 - Rulebook Appendix F (pg 79) <span class="hidden">"Wealth" now costs 2 points, not 1.</span>
 - Boss Stat Card for Render - All instances of "totem" should be "carving". 
 - Puzzle Book p4 The 6th character on the bottom row is missing a dot. 
@@ -136,13 +140,15 @@ Most of these questions were asked by the community. If you have a question that
 - Item 049 - This item is missing a Spent symbol. 
 - Item 225 - This item is a 1-hand slot item, not a chest item.
 - Building 74 Level 3 <span class="hidden">This should have a requirement to build of already having 3 coins.</span>
+- Geminate Level 2 Card Locust Host (top) has an incorrect Round Bonus icon. It can be disregarded.
 - The following scenarios are exceeding counts for some overlay tiles: Scenario 17 (needs 5 pressure plates), Scenario 45 (only 2 barrels in game), 52 (6 Snow Rocks, only 5 in the box), 83 (too many dungeon corridors), 109 (6 single debris tiles, only 5 in the box), and 120 (only 2 barrels in game). Thanks to waitepb for collecting these and sending them to me.
+- Sections 12.4, 38.3, and 196.2 - The item numbers for Gloomhaven item imports are for Gloomhaven (2017). For the item import lists from Gloomhaven (2025), see <a href="#page_41">4.1 Specific Building Questions</a> under Building 37.
 
 **Bonus** - If you think you are missing **two boss standees, FF and SD**, you are probably not. It will become clear when you need them.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_11" class="page-number">1.1</a> Second Printing Non-Errata Changes <a href="#top" class="top">🔝</a>
+### <a name="page_011" class="page-number">1.1</a> Second Printing Non-Errata Changes <a href="#top" class="top">🔝</a>
 
 In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
 
@@ -322,6 +328,12 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Resource Buildings - Who gets the resource? Who pays for it?** Whenever you ‘collectively’ gain one or more resources, they can be taken by any active player or placed into the Frosthaven supply. The costs can likewise be paid by any active player. The player paying the cost does not need to be the player who receives the resource. 
 
+**Building 37 Trading Post** The Gloomhaven Item Imports on the various Building Upgrade sections (12.4, 38.3, and 196.2) list item numbers for Gloomhaven (2017). If you have Gloomhaven (2025), the following items are imported instead at each level of the building (assuming you have unlocked them during your Gloomhaven campaign):
+- Trading Post Level 1 (Also Starter Shop): 9, 10, 43, 96, 97, 122, 123, 124, 125, 126, 127, 137, 150
+- Trading Post Level 2: 23, 24, 31, 32, 33, 38, 41, 51, 70, 81, 82, 83, 84, 85, 86, 92, 94, 95, 98, 100, 104, 107, 110, 112, 113, 116, 120, 129, 131, 140, 141, 143
+- Trading Post Level 3: 39, 40, 44, 46, 48, 71, 74, 75, 77, 78, 88, 93, 99, 103, 106, 108, 114, 115, 117, 118, 119, 130, 135, 139, 144, 148, 151, 152
+- Trading Post Level 4: 59, 61, 64, 67, 72, 76, 79, 80, 89, 109, 111, 121, 128, 132, 133, 134, 136, 138, 142, 145, 147
+
 **Building 44**
 - Level 2 - <span class="hidden">**When does the 10g discount apply? Before or after modifiers for mutli-target, lost card, etc.?**  This cost reduction happens after all other modifiers are applied.</span>
 - Level 3 - <span class="hidden">This building effect reduces the level penalties by 10 each, so each one is 15 gold instead of 25 gold. There's no level penalty for Level 1/X cards, so the building can't reduce its level penalty.</span>
@@ -373,7 +385,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario) <a href="#top" class="top">🔝</a>
 
-### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays <a href="#top" class="top">🔝</a>
+### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Teleport, Forced Movement, and Overlays <a href="#top" class="top">🔝</a>
 
 **What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, deathwalker shadows, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven.*
 
@@ -386,6 +398,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Can I teleport over gaps between room tiles? If so, how do I measure the distance? There's no hexes to count.** Yes, as long as the destination tile is revealed, and the map tiles aren't free-floating (see below). The gap area between rooms is considered part of the wall. You can use extra corridor overlays to measure the distance, if it's not apparent. 
 
 **Can I teleport to a revealed room tile that is totally disconnected from other room tiles?** Completely disconnected room tiles are an unmeasurable distance apart. Only teleports that ignore distance would work in these cases. (For an example of a scenario with this kind of layout, see Scenario <span class="hidden">24</span>.) 
+
+**Can I teleport into the hex I currently occupy?** Yes. While Move 0 is not a valid ability, Teleport 0 is.
 
 **If my move ability has Jump, can I decide not to Jump?** Yes, but it must be decided at the start of your move ability. You can't decide to start Jumping after you begin moving, or decide to stop Jumping before the formal end of the move ability. If another effect adds Jump for your move ability mid-move, you remain Jumping until the formal end of your move ability.
 
@@ -407,7 +421,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **When I lose a card to avoid all damage, do I lose Ward and/or Brittle?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
 
-**If I lose a card to avoid all damage, do I still need to mark use slots on defensive items like armor?** Yes, unless you can bring the damage to 0 by other means. The order of operations for taking damage in Frosthaven means that mandatory items get used before you negate it by losing a card. 
+**If I lose a card (or use some other effect) to avoid all damage, do I still need to mark use slots on defensive items like armor?** Yes, unless you can bring the damage to 0 by other means. The order of operations for taking damage in Frosthaven means that mandatory items get used before you negate it by losing a card. 
 
 **How does Shield interact with Ward and Brittle?** Shield reduces damage before Ward or Brittle are applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.
 
@@ -421,6 +435,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **I have an ability which refers to the damage a figure "would suffer." Is this likewise capped by the figure's HP?** No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.
 
+**If damage is redirected from one figure to another via an ability or effect, what is the source of the damage?** The original source of the damage is not "remembered"; the source of the damage becomes the effect that redirected it. 
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_53" class="page-number">5.3</a> Attack Modifier Draws, Advantage, and Disadvantage <a href="#top" class="top">🔝</a>
@@ -433,7 +449,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If I draw an attack modifier for a summon's attack that refers to something that doesn't make sense for it, for example gaining one of my tokens or a reference to one of my summons, how is this resolved?** All class-specific mechanics are controlled by the summoner, even when drawn by a summon. You gain the benefits of these attack modifier cards.
 
-**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Banner Spear's "Add +1 for each ally adjacent to the target" modifier cards) are evaluated and considered as part of the numeric value, where appropriate. The attack value is considered in cases where a x2 modifier is drawn. Items, such as the Crude Helm, that change the modifier card value, are also evaluated before a better/worse card is determined.
+**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Banner Spear's "Add +1 for each ally adjacent to the target" modifier cards) are evaluated and considered as part of the numeric value, where appropriate. If those would require a cost to be paid (like Boneshaper's 'Kill the attacking Summon' modifiers), it is considered to have an unknown positive value. The attack value is considered in cases where a x2 modifier is drawn. Items, such as the Crude Helm, that change the modifier card value, are also evaluated before a better/worse card is determined.
 
 No other considerations for board state are included (such as an element already being strong, an enemy already being poisoned, a lack of extra targets, etc.) Rolling modifiers before the two terminal cards are also not considered; they are all included with either terminal card with Advantage, while all are discarded with Disadvantage.
 
@@ -450,6 +466,8 @@ Examples:
 **If I have Disadvantage, and draw (for example) a +1 Stun and a +0 Stun, is this ambiguous?** No. While Stun, just like every other non-numeric modifier effect, has an "unknown but positive value," it is always exactly as valuable as itself. While two *different* non-numeric effects can't be compared, two *identical* ones can. In this case, the +1 Stun is better.
 
 **Can I choose not to infuse an element I draw on a modifier card, or is it mandatory, like on my ability cards?** Unless the element is in a mandatory (!) box, elemental infusions on your modifier cards are optional.
+
+**If my Summon has Advantage for their attack, do I get to pick which terminal modifier is used for the attack?** Yes, you do, even if it is a normal attack using monster focus rules.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -473,6 +491,8 @@ Examples:
 
 **Can I skip targets in a red hex AoE attack?** Yes; a red hex AoE just determines the hexes where your potential targets are. *Note - this is a change from the Gloomhaven 1e FAQ, and is to make it consistent with all other non-mandatory targeting.*
 
+**How do red hex abilities interact with walls?** While you need line of sight to all targets in a red hex pattern, you can otherwise ignore the presence of walls. Red hex patterns just operate as-is; even though a wall line means you're not adjacent to the opposite hex, it won't interfere with (for example) Banner Spear's Tip of the Spear (1, top).
+
 **Can I skip the heal ability from long resting or the Regenerate condition?** Yes.
 
 **If I am making a Red Hex AoE attack, and an enemy spawns in the middle of my attack ability within the red hexes, can I attack them?** No, the enemy needs to have been present at the start of the red hex attack ability. 
@@ -487,6 +507,8 @@ Examples:
 
 **I have an attack modifier that references the position of an enemy. Does the enemy need to survive for this to function?** If the modifier is part of the attack ability (that is, a modifier draw or a rider on an attack without an ability separator line), it functions even if the enemy is killed by the attack.
 
+**I have an attack modifier that gives me a Shield. How long does this last?** Attack modifiers with a Shield on them will last from the time they're drawn until the end of the round.
+
 **What does "adjacent" mean when we're talking about placing or triggering an overlay in an occupied hex?** The general rule is that a figure's own hex is considered adjacent to them for their own targeting purposes - however, their targets' own hexes are not adjacent to them. So if you were placing an overlay in a hex adjacent to yourself, you could target your own hex as long as it meets all the criteria for the ability. However, if you were placing it adjacent to another figure, it would have to be in one of the six hexes around them and not directly underneath them. (Note that Deathwalker's shadows break this general rule.)
 
 **What's the difference between "Allies gain..." and "Grant allies..." when it comes to shield, retaliate, etc.?** A persistent or round bonus which says "Allies gain..." or "Allies have..." is performed by you, and only applies to allies who presently fit the condition when they would use it; usually this has a range limitation. On the other hand, a Grant lets the ally perform the ability - and once granted, it's theirs for the duration. In short -
@@ -497,7 +519,7 @@ Examples:
 
 **Is my Long Rest at Initiative 99, or is it always last in order?** Your Long Rest takes place at Initiative 99. It is not necessarily last in order; if a game effect pushes a figure's initiative above 99, it will act after your long rest. Your long rest will be performed before monster turns on Initiative 99, and is ambiguously timed with other players acting at 99. *This is a change from the Gloomhaven 1e FAQ*
 
-**What does "end of turn" mean? If I have a persistent ability that lets me do things at the "end of my turn," how is that timed relative to elemental infusion, or losing a Stun?** While all of these say "end of turn," they're not all timed equally. There is an "end of player turn" phase of sorts, where players can still perform appropriate abilities (example: Geminate's "Harvest the Essence"). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only start once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this step, but no Abilities can be performed.
+**What does "end of turn" mean? If I have a persistent ability or item that lets me do things at the "end of my turn," how is that timed relative to elemental infusion, or losing a Stun?** While all of these say "end of turn," they're not all timed equally. There is an "end of player turn" phase of sorts, where players can still perform appropriate abilities (example: Geminate's "Harvest the Essence"). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only start once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this step, but no Abilities can be performed.
 
 **Granted Attacks - Is there a difference between a Commanded or Granted Attack +X and Attack X?** Yes; see below.
 - Both Attack +X and Attack X will inherit all special attack modifiers for a monster or character summon. This includes extra targets, added conditions, attack patterns, etc.
@@ -506,6 +528,7 @@ Examples:
 
 **I have a Grant ability with an elemental consumption, for example [Boneshaper's Level 1 Dark Tidings](https://github.com/any2cards/frosthaven/blob/master/images/character-ability-cards/frosthaven/BO/fh-dark-tidings.png?raw=true). Who consumes this element? The Boneshaper or the target of the Grant?** The granting figure performs any elemental consumptions, and gains earned XP from it (if any). If one Grant ability grants abilities to more than one target, all of them will benefit from one elemental consumption. The target of the Grant still performs any granted abilities like normal, including new abilities enabled by the elemental consumption.
 
+**Which elemental infusions are mandatory? Can any be skipped?** If an elemental infusion is not in a mandatory (!) box, it can be skipped. 
 
 **Errata for Active Bonuses and Resting** - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting." For example, if a Boneshaper has two skeleton cards active and zero cards in their discard pile, they can still declare a Long Rest. At the end of this Long Rest, they must Lose one of their active summons.
 
@@ -547,6 +570,8 @@ Examples:
 
 **If a monster with a ranged attack is adjacent to one enemy, but could attack another enemy without disadvantage, which enemy will it attack?** Monster focus doesn't consider disadvantage. It will always prioritize the adjacent enemy in this case. If the monster would lose disadvantage by moving away from its focus, if it can do so with its current movement, and if it can do so without entering a negative hex, it will. It will move as little as it can, in order to lose disadvantage.
 
+**What is a Negative Hex?** Traps and Hazardous Terrain are negative hexes, unless the figure can ignore their effects (for example, because they are flying). Otherwise, only hexes specifically called out as "negative" in the scenario or ability effect count as negative.
+
 **Will a monster enter a negative hex (a trap or hazardous terrain) if it's the only way to attack an enemy this turn?** Usually not. A monster's first focus priority is to choose a hex from which they can attack an enemy, using the least possible movement, *preferring "safe" paths of any length over any paths with negative hexes*. They will choose a safer path even if it's much longer, and even if it means they can't attack their focus this turn. They will only choose a path with one or more negative hexes if it's the only way to attack *any* enemy, ever, looking at the current state of the board, pretending the monster has infinite movement. Remember - path length is part of selecting a monster's focus, not something done after focus has been selected. Monsters will focus on an enemy that's apparently further away, by range, if it means they can avoid entering negative hexes. See the steps on p74 of the rulebook for examples.
 
 **If an enemy must move through a choice of traps, will it consider the strength of those traps when determining which one to move through?**  No, monsters will take into account the *number* of negative hexes, but not the *strength or effects* of them. When it's otherwise ambiguous, you can resolve ambiguity in your favor. Note that they will always prefer a path with zero negative hexes, regardless of length, just like normal.
@@ -575,6 +600,8 @@ Examples:
 
 **When does a Monster consume an element? When does a Monster infuse an element?** If any monster in a set is going to perform any ability this round, elements are consumed at the start of the first monster in the set's turn, and elements are infused after the last monster in the set's turn. All monsters in the set benefit from any elemental consumption.
 
+**If there are two sets of identical monsters (say, Inox Guards as enemies and City Guards as allies), do they each draw their own ability card?** Unless the scenario rules state otherwise, they share the same card, and allies will act before enemies.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_59" class="page-number">5.9</a> Scenario Allies <a href="#top" class="top">🔝</a>
@@ -594,6 +621,8 @@ Examples:
 **Barbed** - <span class="hidden">The "undamaged" condition is evaluated at the start of the attack.</span>
 
 **Keep Watch** - <span class="hidden">This is intended to affect both players and summons. Objectives do not take turns, and therefore all your attacks against them would be at Disadvantage.</span>
+
+**United Advance** - <span class="hidden">You gain Muddle if you end your turn 2/3/4 hexes away from at least one other character.</span>
 
 ![divider](/assets/images/divider.png)
 
@@ -679,7 +708,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **This scenario has a boss with a number of health thresholds. What happens if we reduce a boss below two of these at once - or even all the way to 0 health?** The first pending section must be resolved before anything else can happen, and the boss isn't considered dead yet. Generally, these sections will reset the boss's health to a certain amount; the intent is that they can't be killed by a single strong attack. The section (or first section if there's more than one) needs to be resolved before anything else.
 
-**Do I need to kill enemies that have not yet spawned in order to beat a scenario with a goal of "When all enemies in it are dead"?** Yes. Enemies on set spawns for specific rounds are still considered "in the scenario" and must be defeated in order to fulfill that win condition.
+**What does "When all enemies in it are dead" mean?** This means all enemies in all rooms, as well as all enemies in set spawn tables. Enemies on set spawns for specific rounds are still considered "in the scenario" and must be defeated in order to fulfill that win condition.
+
+**Does Escaping count as "leaving a room" for battle goals?** Yes. Escaping is considered leaving a room.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -728,7 +759,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 30 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
 
-**Scenario 34** - <span class="hidden">The Chaos Beam effects happen even if you are jumping or flying.</span>
+**Scenario 34** - <span class="hidden">The Chaos Beam effects happen even if you are jumping or flying. Character summons do not treat the special corridor hexes as negative. Persistent effects like Drifter's Sustained Momentum will not modify the movement from Boss Special 2; it is not really a move ability.</span>
 
 **Scenario 36 (conclusion)** - <span class="hidden">First Printing Only: Add blueprints for Item 067 to the scenario reward.</span>
 
@@ -792,7 +823,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 84** - <span class="hidden"><b>What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..."</b> Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.</span>
 
-**Scenario 90** - <span class="hidden">This scenario does not require the boat to be built at the workshop. It's not necessarily <i>your</i> boat.</span>
+**Scenario 90** - <span class="hidden">This scenario does not require the boat to be built at the workshop. It's not necessarily <i>your</i> boat. In the special rules, "...the Frozen Corpse heals all damage" should just be read as "clears all damage." This resetting of Health does not interact with conditions in any way.</span>
 
 **Scenario 92** - <span class="hidden">See <a href="#page_59">Section 5.9</a> if you're wondering how your scenario ally works.</span>
 
@@ -812,7 +843,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 110** - <span class="hidden">The water hexes are difficult terrain, not corridor, as First Printing erroneously indicates. If you move or destroy the water hexes, or put other overlays into the corridor hexes, the electrification hexes are not affected. Just keep the electrification pattern as it was at the start of the scenario.</span>
 
-**Scenario 111** - <span class="hidden">The door positions in Section 182.2 are correct. On 138.2 the section link should be to 147.2.</span>
+**Scenario 111** - <span class="hidden">The door positions in Section 182.2 are correct. On 138.2 the section link should be to 147.2.</span> Section 147.2 <span class="hidden">If the character who looted the goal tile performs a Summon ability, they still only get one summon, due to component limitations. It may be summoned on either side of the ice wall.</span>
 
 **Scenario 117** - <span class="hidden">First Printing Only: This scenario setup requires 5 Polar bears but there are only 4 standees. A fifth Polar bear should be 'proxied' from other available standees or minis</span>
 
@@ -959,13 +990,15 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Call of the Abyss (1, top) - Can I mark an objective with Call to the Abyss?** While you could mark it, objectives are destroyed, not killed, so it won't create a shadow. 
 
+**Call of the Abyss (1, top) - If I am stunned when the marked enemy dies, will a shadow token still be placeed?** Yes; placing the shadow is a result of this persistent ability, not a new ability itself. 
+
 **Wave of Anguish (X, top) - Can I target a single enemy with all the attacks?** Yes, if your Shadows are all adjacent to the same target. You perform a separate Attack 3 ability for each Shadow on the board. 
 
 **Fluid Night (1, top) - Can this just be used as an Attack 5 without a Shadow token?** No. Attacking from a hex with a shadow on this (and all "as if you occupied" attacks) is not optional, nor is removing that shadow.
 
 **Fluid Night (1, bot) - If I am standing on a shadow, can I teleport to my own hex?** Yes; there is precedent with swapping figures via teleport, so this would work. You're swapping places with yourself.
 
-**Strength of the Abyss (1, bot) - Can I remove a shadow I am using for another action - like the shadow I'm using as my hex for Fluid Night while I'm attacking with Fluid Night?** No. You cannot use Strength of the Abyss to remove a shadow that's being used by the action you're trying to modify. ("Used by" includes being counted for bonuses, used as an attack origin, removed as a cost, etc. If it's considered for an action you want to modify in any way, you can't remove it with Strength of the Abyss.) 
+**Strength of the Abyss (1, bot) - Can I remove a shadow I am using for another action - like the shadow I'm using as my hex for Fluid Night while I'm attacking with Fluid Night?** No. You cannot use Strength of the Abyss to remove a shadow that's being used by the Action (card half) you're trying to modify. ("Used by" includes being counted for bonuses, used as an attack origin, removed as a cost, etc. If it's considered for an Action you want to modify in any way, you can't remove it with Strength of the Abyss.) 
 
 **Shadow Step (1, top) - Can I open a door with this movement? What happens if opening the door causes something that makes it so I no longer have a shadow for my destination hex?** Yes, you can open a door with this action, assuming you have a hex with a shadow to end your move in. If something happens after opening the door which makes it impossible for you to end your move in a shadow, your move ability immediately ends.
 
@@ -1019,6 +1052,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Feeding Frenzy (X, bot) - The damage effect is not mandatory. Can I choose not to damage my allies?** There is a relevant GH2e rulebook tweak here that should be considered as a Frosthaven ruling. You can't perform just part of a "sentence." Because this ability is not mandatory, it can be skipped entirely - but if you perform it, it affects both allies and enemies.
 
 **Smoldering Hatred (1) - When do I get Cursed and Muddled?** Because this is a ‘cost’, the Curse and Muddle happen before you make any attacks.
+
+**Locust Host (2, top)** - The round bonus symbol appears in error; there is no round bonus for this action.
 
 **Can I Muddle myself if I am already Muddled?** Yes. Unless the wording of the card forbids it, you can inflict conditions on yourself that you already have. Note that for conditions like Muddle that last until the end of your next turn, this will reset the timer. 
 
@@ -1090,6 +1125,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Living Magma (3, top)</b> - This attack ability is made by the characer, not the hazardous terrain, and not 'as if they occupied' the hazardous terrain. The character needs Line of Sight to the targets. These are all considered melee attacks.</p>
 
 <p><b>Swelter (7, top) - How does this work?</b> - These are ranged attacks are made by the Meteor, not by the (removed) hazardous terrain. The range of 5 should rarely matter, because the hazardous terrain needs to be within range 4. The character needs Line of Sight to all targets, and if the Meteor is adjacent to an enemy, they will have disadvantage on that attack.</p>
+
+<p><b>Calamity (9, bot)</b> - Even if you have the Dormant Peace perk, enemies will still take damage from Controlled movement into your hazardous terrain.</p>
 
 <p><b>What is the timing on my "Place Hazardous Terrain" modifier card? Is it before or after forced movement?</b> Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.</p>
 
@@ -1254,6 +1291,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I poison multiple enemies in one turn with the persistent of Skull Collection (1)?</b>  Yes as long as you have enough trophies.</p>
 
+<p><b>Grim Trophies (4, bot)</b>(1) While this is one Action, each Move and each Attack are <i>individual Abilities</i>. The action basically queues up a series of Move and Attack abilities for you to perform. (2) You cannot add more Move and Attack abilities to this Action if you gain more Trophies during it. All the Move and Attack abilities are queued up as soon as the Action is played.</p>
+
 </details>
 <br>
 
@@ -1271,6 +1310,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Rising Flood (1, bot) - Can I use this as just a Move 3 without a water tile to designate?</b> Yes; this action says you do this <i>and</i> do that, not do this <i>to</i> to that.</p>
 
 <p><b>Smashing Torrent (2) - Does the Tide effect trigger when an ally grants me a move ability?</b> Yes; this happens on a different turn, and it’s still you taking a move ability.</p>
+
+<p><b>Shuck (3, bot)</b> (1) The elemental consumption gives a grand total of 1 xp, but applies to every move ability you make. (2) Note that while this is all one Action, each Move and each Attack are <i>individual Abilities</i>. The action basically queues up a series of Move and Attack abilities for you to perform.</p>
 
 </details>
 <br>
@@ -1301,6 +1342,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Coiled Limbs - Leaper summon (1) - If the Leaper cannot reach its focus, will it attack another enemy it ends its movement adjacent to?</b> No. Absent specific rules on an ability card, there's no general provisions for monsters to attack enemies other than their focus.</p>
 <p><b>How is the furthest enemy determined?</b> It is determined first by longest movement distance to a valid attack hex, and then by longest range distance. Afterwards, the initiative tiebreaker is as usual. It will move towards its focus like any other monster with a Jump movement would.</p>
 
+<p><b>Aimed Assault (1, top) - If I am in this mode, am I making ranged attacks, or am I just adding range to melee attacks?</b> You're turning all your single-target melee attacks into single-target ranged attacks with a total range of 3. This means they can benefit from modes like Rapid Fire (3, top) if you're using Code Geminate (5, top).</p>
+
 <p><b>Long Range Missile (2)</b> Add the following sentence to the end: "If this damage was from an attack that had any additional conditions or effects, you are subject to them instead."  This resolves some potentially weird situations regarding conditions like Poison or Curse, or Pushes/Pulls. If, for example, your Summon has been damaged by an Attack 3 Poison, you would be Poisoned. If your Summon is going to be Pushed, you will be Pushed instead.</p>
 
 <p><b>Long Range Missile (2) - If I use the bottom action here, and Transfer after an attack where a Living Bones has drawn its "attack one enemy" card, will the remaining attacks fail?</b> Yes. The Living Bones's focus is no longer in melee range.</p>
@@ -1327,11 +1370,17 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>When do my pressure changes happen?</b> Per the board text, when each Action (that is, one card half) fully resolves.</p>
 
+<p><b>When do pressure changes caused by my modifier deck happen?</b> First, note that these (like all modifier deck effects) are optional. These will resolve at the conclusion of whatever action caused the modifier draw. If this was from an attack granted to you by another character, it is at the conclusion of <i>their</i> action. If it's from item usage, it will be after the conclusion of the current action.</p>
+
 <p><b>Can I use the top of Curious Gear (1) to destroy a trap even if there's no enemy to spring it on?</b> No. It needs to be applied to an enemy.</p>
 
-<p><b>Beam Axe (1, bot) - When do these pressure effects trigger?</b> The over-pressure effect doesn't need any adjacent enemies because damage is not targeted. If you are over-pressure, you will always gain xp and lose pressure. The Low Pressure heal is targeted, so the pressure change and XP will only trigger if you have an ally in range to heal.</p>
+<p><b>Beam Axe (1, bot) - When do these pressure effects trigger?</b> The over-pressure effect doesn't need any adjacent enemies because damage is not targeted. If you are Over Pressure, you will always gain xp and lose pressure when this action is performed. The Low Pressure heal is targeted, so the pressure change and XP will only trigger if you have at least one ally in range to heal after the move ability.</p>
 
 <p><b>Steel Piston (1, top) - When do these pressure changes happen?</b> - When you use the attack bonus, this pressure change happens along with any other pressure changes at the end of the action you're performing. The timing is ambiguous, so this can be before or after the rest of the pressure changes.</p>
+
+<p><b>Steel Piston (1, bot)</b> - If there is no target for the attack ability, the attack cannot be performed, and therefore the pressure changes and self-damage will not happen. If there is any available target for the attack, and you are not prevented from attacking, you <i>must</i> perform the attack and then the self damage and/or pressure changes.</p>
+
+<p><b>Recursion (X) - Will these extra pressure changes happen if the pressure change is already double (for example, Beam Axe top while over pressure)?</b> Yes; a double pressure symbol is just two single pressure symbols. This will result in three pressure changes instead of two.</p>
 
 <p><b>In Bronze Plating (2 top), what effects are persistent?</b> The shield and inability to move are both persistent. Shields always last as long as a card is active, and the mandatory box is phrased as an ongoing effect. The pressure check, xp, regenerate, and pressure change are a one-time effect and resolved when the card is played.</p>
 
@@ -1344,7 +1393,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ## <a name="page_9" class="page-number">9.0</a> Items (General) <a href="#top" class="top">🔝</a>
 
-**Can potions be sold, or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
+**Can potions be sold, or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them. This includes items 098 and 119.
 
 **What happens if I gain an item I can't gain? Say, because all copies of it are owned by other party members?** The rule about duplicate item sales has been expanded to cover this situation. Instead of "When a character gains another copy of an item they already own, they must sell it immediately" it's expanded to, "When a character gains an item they cannot gain (for any reason), they must sell it immediately."
 
@@ -1375,6 +1424,8 @@ Items are listed by their item number.
 **Item 006 Flexible Slippers - Can I use these to "loot" an adjacent hex without loot tokens or treasure instead of my own hex that does?** Yes; Loot isn't a targeted ability, and end-of-turn looting isn't an ability at all.
 **If I still have Flexible Slippers available when I take a Long Rest, can I use them and immediately recover them to have them available after my rest?** No. End-of-turn looting happens after refreshing items.
 
+**Item 007 Crude Bow - How does this work with area of attack or multi-target abilities?** As an errata clarification, the Crude Bow cannot work on red hex Area of Effect attacks. It *can* work for an individual target of a Target X attack.
+
 **If I am Impaired or Stunned, will the condition expire before end-of-turn looting?** As long as you were impaired or stunned before your turn, it expires at ambiguous timing with end-of-turn looting. So, you can choose for the condition to expire first. 
 
 **Item 013** - <span class="hidden"><b>Dancing Slippers - How does this interact with Retaliate and conditions from the attack?</b> This move happens before Retaliate, but after any added conditions or forced movement from the attack. So, for example, if an attack would Immobilize you, you would not be able to use these in response.</span>
@@ -1393,6 +1444,8 @@ Items are listed by their item number.
 **Item 047** - <span class="hidden">**Robes of Doom - What is the timing on this effect? Does this happen before or after my Retaliate?** It is ambiguous. You decide the order whenever it would happen. **Is this item mandatory to use? Can I choose not to use this effect?** This item's effect, like all items with use slots, is mandatory. It will damage you and brittle the attacker the first on the next two sources of damage from attacks.</span> 
 
 **Item 049, 1st Printing Errata** - <span class="hidden">**Cruel Dagger** This item is missing a Spent symbol.</span> 
+
+**Item 061** - <span class="hidden">**Spiked Shell** - The item effect is timed along with and ambiguous to Retaliate. It includes any momentary shields (such as from other items) used to reduce attack damage.</span> 
 
 **Item 076** - <span class="hidden">**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
 
@@ -1426,6 +1479,10 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 119** - <span class="hidden">**Deadly Mixture - Can I distill the Deadly Mixture? What happens?** No, it is forbidden per the Level 3 Alchemist rules. It can be sold for 6 gold.</span>
 
 **Item 124 Winged Shoes - Can I use this in the middle of a move if I suddenly need or want to jump?** No; using Winged Shoes is an ability, and therefore can't be performed in the middle of another ability. Please see the general item rules, above.
+
+**Item 161** - <span class="hidden"><b>Strategist's Ring - is this timed after elemental infusions, or losing a condition such as Stun?</b> This item is used during the "end of player turn" phase, when players can still perform appropriate abilities or use appropriate items (like this one). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only begin once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this wrap-up step, but no more Abilities can be performed.</span>
+
+**Item 165** - <span class="hidden"><b>Ring of Haste - is this timed after elemental infusions or losing a condition such as Immobilize?</b> This item is used during the "end of player turn" phase, when players can still perform appropriate abilities or use appropriate items (like this one). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only begin once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this wrap-up step, but no more Abilities can be performed.</span>
 
 **Item 180** - <span class="hidden"><b>Boots of Greed - do Loot abilities I grant to my Summons count for this item?</b> Yes. Your summons' loot abilities are considered your loot abilities for all purposes.</span>
 
@@ -1462,6 +1519,57 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 253** - <span class="hidden">**Mask of Duality** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
 **Item 259** - <span class="hidden">**Storm Carving** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
+
+![divider](/assets/images/divider.png)
+
+## <a name="page_10" class="page-number">10.0</a> Compatibility Notes for Crossover Characters
+
+### General Note - Loot vs Money Tokens
+
+If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except for the random item) back to the top of the loot deck.
+
+### Objectives vs. Obstacles with Hit Points
+
+Any mechanic referring to either objectives, or obstacles with hit points, is referring to either.
+
+![divider-narrow](/assets/images/divider2.png)
+
+### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
+
+**General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (either city or road). Event cards that do not feature crossover outcomes are resolved normally.
+
+**Drifter** - Your Scavenger perk (which lets you exchange Loot Cards) has no function in games without a Loot Deck.
+
+![divider-narrow](/assets/images/divider2.png)
+
+### Gloomhaven: Second Edition characters in Frosthaven
+
+**Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
+
+***Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with Chimeric Formula, *particularly* when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
+
+**Saw and Frosthaven Building 42** - <span class="hidden">Your Devout perk will work just as normal for the Temple, once it is built. Even though the cost for blessings is different between the games, you don't get any refunds.</span>
+
+**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions Saw give to them, because Prescriptions are still considered Saw's abilities.</span>
+
+**Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost. Note that you "Well-Connected" perk (involving faction items) has no function outside of Gloomhaven: Second Edition.</span>
+
+![divider-narrow](/assets/images/divider2.png)
+
+### Gloomhaven: Jaws of the Lion characters in other games
+
+Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven)
+
+**Demolitionist** - If you bring the Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
+
+### Other Characters in Jaws of the Lion
+
+If it is your first time playing, you should use the characters who came with the game. If you are bringing another mercenary into the intro scenarios, just pick 6 (or 8) of your cards when the other players are using their A/B cards, matching their hand sizes.
+
+
+
+
+<br>
 
 
 <script>
