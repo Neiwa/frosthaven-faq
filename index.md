@@ -1522,19 +1522,19 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_10" class="page-number">10.0</a> Compatibility Notes for Crossover Characters
+## <a name="page_10" class="page-number">10.0</a> Compatibility Notes for Crossover Characters <a href="#top" class="top">🔝</a>
 
-### General Note - Loot vs Money Tokens
+### General Note - Loot vs Money Tokens <a href="#top" class="top">🔝</a>
 
 If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except for the random item) back to the top of the loot deck.
 
-### Objectives vs. Obstacles with Hit Points
+### Objectives vs. Obstacles with Hit Points <a href="#top" class="top">🔝</a>
 
 Any mechanic referring to either objectives, or obstacles with hit points, is referring to either.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
+### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion <a href="#top" class="top">🔝</a>
 
 **General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (either city or road). Event cards that do not feature crossover outcomes are resolved normally.
 
@@ -1542,7 +1542,7 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### Gloomhaven: Second Edition characters in Frosthaven
+### Gloomhaven: Second Edition characters in Frosthaven <a href="#top" class="top">🔝</a>
 
 **Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
 
@@ -1556,7 +1556,7 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### Gloomhaven: Jaws of the Lion characters in other games
+### Gloomhaven: Jaws of the Lion characters in other games <a href="#top" class="top">🔝</a>
 
 Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven)
 
